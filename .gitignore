@@ -1,0 +1,33 @@
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node.js (на всякий випадок)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+*.swp
+*.swo
+
+# SSL ключі та сертифікати (якщо ти тестував через HTTPS)
+*.pem
+*.key
+
+# Архіви
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Логи
+*.log
+
+# Конфіденційне
+.env
+.env.local

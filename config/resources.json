@@ -1,0 +1,11 @@
+{
+  "widgets": [
+    {
+      "location": "related_list",
+      "widget_type": "web",
+      "name": "CurrencyRateWidget",
+      "url": "/app/widget.html",
+      "target_module": "Deals"
+    }
+  ]
+}

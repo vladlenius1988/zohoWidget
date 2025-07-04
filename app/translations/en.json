@@ -1,0 +1,11 @@
+{
+  "nbuRate": "NBU Rate",
+  "dealRate": "Deal Rate",
+  "difference": "Difference (%)",
+  "loading": "Loading...",  
+  "updateRate": "Update Rate",
+  "rateUpdated": "✅ Rate updated",
+  "updateError": "Error updating rate",
+  "fatalError": "Fatal error",  
+  "widgetTitle": "💱 Exchange Rate"
+}
